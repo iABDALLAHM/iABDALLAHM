@@ -2,7 +2,7 @@
 <h3 align="center">A passionate flutter developer</h3>
 
 
-- 🔭 I’m currently working on **event-booking-app**
+- 🔭 I’m currently working on **event-booking-app**  [event-booking-app](https://github.com/iABDALLAHM/event_booking_app)
 
 - 🌱 I’m currently learning **Flutter**
 
