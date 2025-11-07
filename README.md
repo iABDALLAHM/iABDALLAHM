@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah</h1>
-<h3 align="center">A passionate flutter developer</h3>
+<h3 align="center">A passionate Flutter Developer</h3>
 
 
 - 🔭 I’m currently working on [event-booking-app](https://github.com/iABDALLAHM/event_booking_app)
