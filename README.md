@@ -6,29 +6,30 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=𝑴𝒐𝒃𝒊𝒍𝒆%20𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓;𝒂𝒍𝒘𝒂𝒚𝒔%20𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈%20𝒏𝒆𝒘%20𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔;𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓%20𝒔𝒄𝒊𝒆𝒏𝒄𝒆%20𝑼𝒏𝒅𝒆𝒓𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=𝑴𝒐𝒃𝒊𝒍𝒆%20𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓;𝒂𝒍𝒘𝒂𝒚𝒔%20𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈%20𝒏𝒆𝒘%20𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔;𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓%20𝒔𝒄𝒊𝒆𝒏𝒄𝒆&font=Fira%20Code&center=true&width=1000%&height=100&color=0084FF&vCenter=true&size=50">
   </a>
 </p>
 
 
-### 🙋‍♂️ About Me
+###  𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
 
-- 💻 **Mobile Developer with experience building 10+ mobile applications using Flutter**, focusing on **clean architecture**, **scalable solutions**, and **real-world problem solving**.
+- **Mobile Developer with experience building 10+ mobile applications using Flutter**, focusing on **clean architecture**, **scalable solutions**, and **real-world problem solving**.
 
-- 🎓 **Computer Science undergraduate** passionate about software engineering, data structures, and building efficient, user-centered applications.
+- **Computer Science undergraduate** passionate about software engineering, data structures, and building efficient, user-centered applications.
 
-- 🎨 Skilled at transforming **Figma designs** into responsive, **high-performance** mobile apps, with strong attention to detail and smooth **user experience**.
+- Skilled at transforming **Figma designs** into responsive, **high-performance** mobile apps, with strong attention to detail and smooth **user experience**.
 
-- 🔬 Continuously learning and **improving in API integrations**, **state management**, Firebase, **clean code practices**, and **performance optimization**.
+- Continuously learning and **improving in API integrations**, **state management**, Firebase, **clean code practices**, and **performance optimization**.
 
-- ⚡ **Fun Fact**: 𝑴𝒚 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒔𝒊𝒅𝒆 𝒇𝒍𝒐𝒖𝒓𝒊𝒔𝒉𝒆𝒔 𝒘𝒊𝒕𝒉 𝒂 𝒄𝒖𝒑 𝒐𝒇 𝒄𝒐𝒇𝒇𝒆𝒆 𝒘𝒉𝒊𝒍𝒆 𝒄𝒐𝒅𝒊𝒏𝒈; 𝒊𝒕 𝒃𝒐𝒐𝒔𝒕𝒔 𝒃𝒐𝒕𝒉 𝒑𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒗𝒊𝒕𝒚 𝒂𝒏𝒅 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚.
+- **Fun Fact**: 𝑴𝒚 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒔𝒊𝒅𝒆 𝒇𝒍𝒐𝒖𝒓𝒊𝒔𝒉𝒆𝒔 𝒘𝒊𝒕𝒉 𝒂 𝒄𝒖𝒑 𝒐𝒇 𝒄𝒐𝒇𝒇𝒆𝒆 𝒘𝒉𝒊𝒍𝒆 𝒄𝒐𝒅𝒊𝒏𝒈; 𝒊𝒕 𝒃𝒐𝒐𝒔𝒕𝒔 𝒃𝒐𝒕𝒉 𝒑𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒗𝒊𝒕𝒚 𝒂𝒏𝒅 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚.
 
 <br>
 
 
-### 📧 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=&logoColor=black)]()
+### 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗠𝗲
+
+<!--[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=&logoColor=black)]() -->
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iabdallahm)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](iabdallllah.dev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/201061282668) 
