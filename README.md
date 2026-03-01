@@ -1,7 +1,6 @@
 
  <h1 align="center">
 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐀𝐛𝐝𝐚𝐥𝐥𝐚𝐡 𝐌𝐨𝐡𝐚𝐦𝐞𝐝'𝐬 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </h1>
 
 <p align="center">
