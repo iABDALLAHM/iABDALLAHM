@@ -5,10 +5,12 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=𝑴𝒐𝒃𝒊𝒍𝒆%20𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓;𝒂𝒍𝒘𝒂𝒚𝒔%20𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈%20𝒏𝒆𝒘%20𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔;𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓%20𝒔𝒄𝒊𝒆𝒏𝒄𝒆&font=Fira%20Code&center=true&width=1000%&height=100&color=0084FF&vCenter=true&size=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=𝑴𝒐𝒃𝒊𝒍𝒆%20𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓;𝒂𝒍𝒘𝒂𝒚𝒔%20𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈%20𝒏𝒆𝒘%20𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔;𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓%20𝒔𝒄𝒊𝒆𝒏𝒄𝒆&font=Fira%20Code&center=true&width=1000%&height=100&color=6B6B6B&vCenter=true&size=50">
   </a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iABDALLAHM&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ###  𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
@@ -21,17 +23,20 @@
 
 - Continuously learning and **improving in API integrations**, **state management**, Firebase, **clean code practices**, and **performance optimization**.
 
-- **Fun Fact**: 𝑴𝒚 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒔𝒊𝒅𝒆 𝒇𝒍𝒐𝒖𝒓𝒊𝒔𝒉𝒆𝒔 𝒘𝒊𝒕𝒉 𝒂 𝒄𝒖𝒑 𝒐𝒇 𝒄𝒐𝒇𝒇𝒆𝒆 𝒘𝒉𝒊𝒍𝒆 𝒄𝒐𝒅𝒊𝒏𝒈; 𝒊𝒕 𝒃𝒐𝒐𝒔𝒕𝒔 𝒃𝒐𝒕𝒉 𝒑𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒗𝒊𝒕𝒚 𝒂𝒏𝒅 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚.
+- **Fun Fact**: My creative side flourishes with a **cup of coffee** while coding; it boosts both **productivity** and **creativity**.
+
 
 <br>
 
 
 ### 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗠𝗲
 
-<!--[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=&logoColor=black)]() -->
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iabdallahm)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](iabdallllah.dev@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/201061282668) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=googlescholar&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/iabdallahm)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/YOUR_NUMBER]())
+
 
 <br>
 
@@ -108,12 +113,12 @@
 
  -->
 
+
+ 
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iABDALLAHM" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iABDALLAHM&style=for-the-badge" alt="Profile Views" />
-</p>
+ -->
