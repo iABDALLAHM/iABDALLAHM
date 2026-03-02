@@ -34,6 +34,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=googlescholar&logoColor=white)](YOUR_PORTFOLIO_LINK)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iabdallahm)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iabdallllah.dev@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Abdallah,)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AllllHMD)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/YOUR_NUMBER]())
 
