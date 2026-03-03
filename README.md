@@ -36,7 +36,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iabdallllah.dev@gmail.com)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AllllHMD)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/YOUR_NUMBER]())
-
+[![GitHub Followers](https://img.shields.io/github/followers/iABDALLAHM?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717)](https://github.com/iABDALLAHM?tab=followers)
 
 <br>
 
